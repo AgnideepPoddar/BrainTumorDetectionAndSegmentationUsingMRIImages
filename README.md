@@ -1,1 +1,1 @@
-# BrainTumorDetectionAndSegmentationUsingMRIImages
+# BRAIN-TUMOR-DETECTION-AND-SEGMENTATION-USING-MRI-IMAGES
